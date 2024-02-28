@@ -14,7 +14,7 @@ A functional E-commerce website clone of the famous brand "boat-lifestyle.com" u
 
 # Objective
 
-As a practice project we have created the clone of the website <a href="https://boat-lifestyle.com"> https://boat-lifestyle.com </a> with 5 team members and executed the project within 5 days. 
+As a practice project we have created the clone of the website <a href="https://boat-lifestyle.com"> https://boat-lifestyle.com </a>  executed the project within 5 days. 
 
 # Navbar and Dropdown
 https://user-images.githubusercontent.com/101733074/192538832-b669223c-3b49-4307-bbf5-68769af1c08f.mp4
